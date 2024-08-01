@@ -36,4 +36,4 @@ Zhang, N., Xiong, J., Zhao, Z., Feng, M., Wang, X., Qiao, Y., & Jiang, C. (2024)
 3. @ [Zhiming Zhao](https://github.com/zhiming817)  <br>
 4. @ [Mingyang Feng](https://github.com/1366560t)  <br>
 5. @
-6. @ 
+6. @ [Chufeng Jiang](https://github.com/Chufeng-Jiang) <br>
