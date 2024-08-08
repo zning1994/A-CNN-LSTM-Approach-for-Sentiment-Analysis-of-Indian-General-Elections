@@ -35,6 +35,6 @@ Zhang, N., Xiong, J., Zhao, Z., Feng, M., Wang, X., Qiao, Y., & Jiang, C. (2024)
 2. @ [Jize Xiong](https://github.com/Jasonxiong824)   <br>
 3. @ [Zhiming Zhao](https://github.com/zhiming817)  <br>
 4. @ [Mingyang Feng](https://github.com/1366560t)  <br>
-5. @  <br>
+5. @ [Xiaosong Wang](https://github.com/XiaosongWangcode)   <br>
 6. @ [Yuxin Qiao](https://github.com/Yuxin-Qiao)  <br>
 7. @ [Chufeng Jiang](https://github.com/Chufeng-Jiang) <br>
